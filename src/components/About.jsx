@@ -94,7 +94,8 @@ export function About() {
 
           {[
             ["School", "Completed schooling through SSC Exam in 2024"],
-            ["College", "Pursuing Diploma in Cloud Computing and Big Data."],
+            ["College", "Pursuing Diploma in Cloud Computing and Big Data from Bhausaheb Vartak Polytechnic."],
+            ["Internship", "Training at Elite Forums"],
           ].map((item) => (
             <div
               key={item[0]}
